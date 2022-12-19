@@ -26,7 +26,9 @@ _Шаг 3_
 По ссылке https://github.com/GrachevaYana/C-_FinalVerificationWork.git находится:
 
 FinalVerificationWork - файл с кодом программы на языке C#.
+
 README - файл с описанием проекта.
+
 Diagram.drawio - диаграмма описания алгоритма решения. 
 
 
